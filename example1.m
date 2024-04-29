@@ -1,4 +1,4 @@
-%This code has been used to generate the numerical example.
+%This code has been used to generate the numerical example in the paper.
 %The code requires YALMIP parser for Linear Matrix Inequality, freely avaialbe at https://yalmip.github.io. 
 %Any SDP solver can be used. Here we used SDPT3 freely avaialbe at https://github.com/SQLP/SDPT3
 clear all
